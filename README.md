@@ -3,7 +3,7 @@ Scan lego.com, lego.cn, lego.&lt;tld> and legogroup.io with securityheaders.com 
 
 # What it does
 
-1. Find relevant domains using Certificate Transparency Logs (CTL)
+1. Find relevant domains using Certificate Transparency Logs (CTL) (crt.sh)
 2. Filter domains using DNS lookup
 3. Filter domains using port test (to save licensed scans)
 4. Find 200 domains prioritizing not yet filtered and then sorted by last-scan
